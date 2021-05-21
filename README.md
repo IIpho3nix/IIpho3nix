@@ -1,6 +1,5 @@
 - Hello There
-- Im A Begginer Interested in Java + Javascript
-- im Current Learning Java
+- Im A Begginer Interested in Java
 
 <!---
 IIpho3nix/IIpho3nix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
