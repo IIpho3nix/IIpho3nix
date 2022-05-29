@@ -1,8 +1,11 @@
+<div align="center"> 
+
 # IIpho3nix
 
 ## My Github Stats
 
 ![IIpho3nix's GitHub stats](https://github-readme-stats.vercel.app/api?username=IIpho3nix&count_private=true&theme=vision-friendly-dark&show_icons=true)
+  
 ![IIpho3nix's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIpho3nix&theme=vision-friendly-dark&layout=compact)
 
 ## Languages i know
@@ -30,3 +33,5 @@
 ## My Website
 
 [![Website](https://img.shields.io/website?style=for-the-badge&down_color=red&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2FIIpho3nix.me)](https://iipho3nix.me)
+ 
+</div>
